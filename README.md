@@ -2,7 +2,7 @@
 
 This Docker image is based on the work of Fabric8 [fluentd](https://github.com/fabric8io/docker-fluentd-kubernetes/) image.
 
-[![license](https://img.shields.io/github/license/cy-play/docker-fluentd-kubernetes.svg?maxAge=2592000)]()
+[![license](https://img.shields.io/github/license/cy-play/docker-fluentd-kubernetes.svg?maxAge=2592000)]()[![Docker Repository on Quay](https://quay.io/repository/cy-play/jnlp-slave/status "Docker Repository on Quay")](https://quay.io/repository/cy-play/jnlp-slave)
 
 Fluentd version : 0.14.8
 
