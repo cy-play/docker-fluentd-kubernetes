@@ -4,6 +4,8 @@ This Docker image is based on the work of Fabric8 [fluentd](https://github.com/f
 
 [![license](https://img.shields.io/github/license/cy-play/docker-fluentd-kubernetes.svg?maxAge=2592000)]()
 
+Fluentd version : 0.14.8
+
 ## Installed Plugins
 | Plugin name   | Version       |Purpose       |
 | ------------- |:-------------:|:------------|
