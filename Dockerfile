@@ -20,3 +20,4 @@ RUN scl enable rh-ruby23 'gem install --no-document fluent-plugin-kubernetes_met
     scl enable rh-ruby23 'gem cleanup fluentd'
 
 ADD start-fluentd /start-fluentd
+RUN chmod +x /start-fluentd
